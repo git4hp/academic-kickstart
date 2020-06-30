@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Prof. Antonio Lombardo
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Physics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University College London
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,14 +27,14 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Graphene
+    institution: Cambridge University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Physics
+    institution: Italy
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: BSc
+    institution: Italy
     year: 2008
 
 # Social/Academic Networking
